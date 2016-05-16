@@ -1,22 +1,6 @@
-
 # Site settings
 
-# NB! Set your site's url, otherwise stuff will break :)
-
 url: "https://hopetech.github.io"
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
-
-#baseurl: /personal-jekyll-theme
-
-# Google tracking id to track your visitors
-
-#google-tracking-id: "UA-35880426-4"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -95,10 +79,7 @@ twitter-share: True
 linkedin-share: True
 reddit-share: True
 google-plus-share: True
-tumblr-share: True
-pinterest-share: True
 pocket-share: True
-vkontakte-share: True
 
 disqus-shortname: "elie"
 
@@ -109,19 +90,19 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/spidertocat.png"
     date: "August 15 - 23, 2016"
     description: "Final evaluations"  
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/baracktocat.jpg"
     date: "June 27, 2016 - August 15, 2016"
     description: "Keep coding"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/spidertocat.png"
     date: "June 20 - 27, 2016"
     description: "Midterm evaluations"
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/baracktocat.jpg"
     date: "May 23, 2016 - June 27, 2016"
     description: "Started coding"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/xorg.jpg"
     date: "April 22, 2016 - May 22, 2016"
     description: "Community Bonding"
 
@@ -143,7 +124,7 @@ email: "tournier.elie@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "My name is Elie Tournier. I'm a medical ICT student at Telecom Physique Strasbourg, France. Open-source entousiast, I contribute to Mesa by implementing a double precision floating point library."
 author_blurb_image: "/img/author.png"
 
 ##################
