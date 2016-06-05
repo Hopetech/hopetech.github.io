@@ -81,8 +81,6 @@ reddit-share: True
 google-plus-share: True
 pocket-share: True
 
-disqus-shortname: "elie"
-
 syntax-highlight: True
 
 ############
