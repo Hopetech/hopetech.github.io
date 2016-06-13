@@ -8,15 +8,14 @@ tags: [ 'Mesa', 'Piglit', 'GSoC' ]
 
 Hello everyone,
 
-** TL;DR:
-As a reminder, the goal of my GSoC subject is to implement a software double precision floating point library in pure GLSL 1.30.
-During this period I was able to define more precisely the different stages of the project as well as the development tools to use. This is "shader\_runner" a Piglit component, which allows to execute the GLSL code.
-I start by implementing the "easiest" functions like float\_to\_ double conversion, double\_to\_float conversion and absolute.
+**TL;DR:**
+**As a reminder, the goal of my GSoC subject is to implement a software double precision floating point library in pure GLSL 1.30.**
+**During this period I was able to define more precisely the different stages of the project as well as the development tools to use. This is "shader\_runner" a Piglit component, which allows to execute the GLSL code.**
+**I start by implementing the "easiest" functions like float\_to\_ double conversion, double\_to\_float conversion and absolute.**
 
-However, I have fallen behind because of my exams but also job interviews.
+**However, I have fallen behind because of my exams but also job interviews.**
 
-I met some difficulties with Piglit because of the lack of documentation.
-**
+**I met some difficulties with Piglit because of the lack of documentation.**
 
 Today I decided to tell you a story, one of my first few weeks of coding for the GSoC program.
 
@@ -40,9 +39,7 @@ During that time, I met some difficulties:
 I struggled to integrate my function in Piglit and to run shader\_runner because I don't found so much documentation about it. So I couldn't test my code.
 More over, I have fallen behind because of my exams but also job interviews.
 
-**
-To summerize, I realize 3 functions (float\_to\_double, double\_to\_float and absolute) but I still have to check my code by the community and to understand how to properly use piglit.
-**
+**To summerize, I realize 3 functions (float\_to\_double, double\_to\_float and absolute) but I still have to check my code by the community and to understand how to properly use piglit.**
 
 Have a nice day of coding!
 Elie "[Hopetech](https://github.com/Hopetech)" Tournier
