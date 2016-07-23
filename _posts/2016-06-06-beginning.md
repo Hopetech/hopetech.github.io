@@ -33,13 +33,14 @@ The second thing to know was how to store our 64 bits. We will use two unsigned 
 
 So I began by implementing float\_to\_double. We wanted to convert a [simple precision](https://en.wikipedia.org/wiki/Single-precision_floating-point_format) to a [double precision](https://en.wikipedia.org/wiki/Double-precision_floating-point_format).
 Technically, we just had to extract the 3 parts of the number: the sign bit, the exponent and the fraction of the float. Then add each part in the right place of the double. It's easy to fit a 32 bit in a 64. But in the other way, it's more difficult.
-The last function on which I worked is the absolute value. We just had to set the value of the sign bit to 1 by apply a mask on our double.
+The second function I had code is negate. For that, we toggled the sign bit.
+The last function on which I worked is the absolute value. We just had to clean the sign bit to 1 by apply a mask on our double.
 
 During that time, I met some difficulties:
 I struggled to integrate my function in Piglit and to run shader\_runner because I don't found so much documentation about it. So I couldn't test my code.
 More over, I have fallen behind because of my exams but also job interviews.
 
-**To summerize, I realize 3 functions (float\_to\_double, double\_to\_float and absolute) but I still have to check my code by the community and to understand how to properly use piglit.**
+**To summerize, I realize 3 functions (float\_to\_double, negate and absolute) but I still have to check my code by the community and to understand how to properly use piglit.**
 
 Have a nice day of coding!
 Elie "[Hopetech](https://github.com/Hopetech)" Tournier
