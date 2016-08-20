@@ -93,6 +93,7 @@ A stretch goal would be to use this library of functions to implement 'GL_ARB_gp
 #6. Gain for me:
 
 During this summer, I discovered a shading language call GLSL and I improved my knowledge about double precision floating point. I'm also more confident with [git](https://git-scm.com/).
+
 More over, I took some time to rice my working environment. Now, I'm using [vim](http://www.vim.org/) with pluggins as IDE and [i3WM](https://i3wm.org/) as WM.
 I think this choice will help me in the future.
 
@@ -102,7 +103,6 @@ To create this blog, I'm using Jekyll host on GitHub. I'm not a fan of web devel
 #7. Thanks:
 
 I would like to thank all members of Mesa and particularly Ian Romanick, my mentor.
-
 Of course, thank to the staff of GSoC.
 
 THANKS GUYS !
