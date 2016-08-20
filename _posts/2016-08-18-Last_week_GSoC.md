@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title:Last week of GSoC program 
+title: Last week of GSoC program 
 category: tech
 tags: [ 'Mesa', 'Floating point', 'GSoC' ]
 ---
