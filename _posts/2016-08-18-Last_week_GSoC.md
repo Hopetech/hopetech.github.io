@@ -72,9 +72,9 @@ The list of my commits are available at [https://github.com/Hopetech/libSoftFloa
 |Negate|100||[https://github.com/Hopetech/libSoftFloat/blob/master/neg_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/neg_fp64.shader_test)|
 |Abs|100||[https://github.com/Hopetech/libSoftFloat/blob/master/abs_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/abs_fp64.shader_test)|
 |Mul|50|Compiler OK but trouble with the algorithm|[https://github.com/Hopetech/libSoftFloat/blob/master/mul_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/mul_fp64.shader_test)|
-|Recip|0||[]|
-|Convert to single precision|100||[https://github.com/Hopetech/libSoftFloat/blob/master/fp64-to-fp32-conversion.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/fp64-to-fp32-conversion.shader_test)|
-|Convert from single precision|100||[https://github.com/Hopetech/libSoftFloat/blob/master/fp32-to-fp64-conversion.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/fp32-to-fp64-conversion.shader_test)|
+|Recip|0|||
+|FP64 to FP32|100||[https://github.com/Hopetech/libSoftFloat/blob/master/fp64-to-fp32-conversion.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/fp64-to-fp32-conversion.shader_test)|
+|FP32 to FP64|100||[https://github.com/Hopetech/libSoftFloat/blob/master/fp32-to-fp64-conversion.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/fp32-to-fp64-conversion.shader_test)|
 |Eq|100||[https://github.com/Hopetech/libSoftFloat/blob/master/eq_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/eq_fp64.shader_test)|
 |Le|100||[https://github.com/Hopetech/libSoftFloat/blob/master/le_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/le_fp64.shader_test)|
 |Lt|100||[https://github.com/Hopetech/libSoftFloat/blob/master/lt_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/lt_fp64.shader_test)|
@@ -96,11 +96,15 @@ During this summer, I discovered a shading language call GLSL and I improved my 
 More over, I took some time to rice my working environment. Now, I'm using [vim](http://www.vim.org/) with pluggins as IDE and [i3WM](https://i3wm.org/) as WM.
 I think this choice will help me in the future.
 
+To create this blog, I'm using Jekyll host on GitHub. I'm not a fan of web development but it's was a pleasure to maintain and play with this website.
+
 
 #7. Thanks:
 
 I would like to thank all members of Mesa and particularly Ian Romanick, my mentor.
+
 Of course, thank to the staff of GSoC.
+
 THANKS GUYS !
 
 Elie "[Hopetech](https://github.com/Hopetech)" Tournier
