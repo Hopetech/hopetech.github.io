@@ -9,7 +9,7 @@ Hi everyone,
 
 It's the last week of the Google Summer of Code but not of my contribution to Mesa.
 The purpose of this post is to present the project progress.
-The list of my commits done during the GSoC are available at [https://github.com/Hopetech/libSoftFloat/commits/master?author=hopetech]
+The list of my commits done during the GSoC are available at [https://github.com/Hopetech/libSoftFloat/commits/master?author=hopetech](https://github.com/Hopetech/libSoftFloat/commits/master?author=hopetech).
 
 #1. Me:
 
@@ -78,7 +78,7 @@ The list of my commits are available at [https://github.com/Hopetech/libSoftFloa
 |Eq|100||[https://github.com/Hopetech/libSoftFloat/blob/master/eq_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/eq_fp64.shader_test)|
 |Le|100||[https://github.com/Hopetech/libSoftFloat/blob/master/le_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/le_fp64.shader_test)|
 |Lt|100||[https://github.com/Hopetech/libSoftFloat/blob/master/lt_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/lt_fp64.shader_test)|
-|Rsqrt|0|||
+|Rsqrt|25|I work on Sqrt||
 |Log|0|||
 |Exp|0|||
 
