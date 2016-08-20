@@ -78,7 +78,7 @@ The list of my commits are available at [https://github.com/Hopetech/libSoftFloa
 |Eq|100||[https://github.com/Hopetech/libSoftFloat/blob/master/eq_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/eq_fp64.shader_test)|
 |Le|100||[https://github.com/Hopetech/libSoftFloat/blob/master/le_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/le_fp64.shader_test)|
 |Lt|100||[https://github.com/Hopetech/libSoftFloat/blob/master/lt_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/lt_fp64.shader_test)|
-|Rsqrt|25|I work on Sqrt||
+|Rsqrt|25|I work on Sqrt|[https://github.com/Hopetech/libSoftFloat/blob/master/sqrt_fp64.shader_test](https://github.com/Hopetech/libSoftFloat/blob/master/sqrt_fp64.shader_test)|
 |Log|0|||
 |Exp|0|||
 
