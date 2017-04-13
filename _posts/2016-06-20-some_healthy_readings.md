@@ -2,8 +2,7 @@
 layout: post
 section-type: post
 title: Some healthy readings
-category: tech
-tags: [ 'Mesa', 'Floating point', 'GSoC' ]
+tags: [ 'Mesa', 'GSoC' ]
 ---
 Hello
 
@@ -23,4 +22,4 @@ For French readers:
 
 Regards,
 
-Elie "[Hopetech](https://github.com/Hopetech)" Tournier
+Elie "[hopetech](https://github.com/Hopetech)" Tournier

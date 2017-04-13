@@ -2,7 +2,6 @@
 layout: post
 section-type: post
 title: The first 2 weeks of coding period
-category: tech
 tags: [ 'Mesa', 'Piglit', 'GSoC' ]
 ---
 
@@ -43,4 +42,4 @@ More over, I have fallen behind because of my exams but also job interviews.
 **To summerize, I realize 3 functions (float\_to\_double, negate and absolute) but I still have to check my code by the community and to understand how to properly use piglit.**
 
 Have a nice day of coding!
-Elie "[Hopetech](https://github.com/Hopetech)" Tournier
+Elie "[hopetech](https://github.com/Hopetech)" Tournier

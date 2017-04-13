@@ -2,8 +2,7 @@
 layout: post
 section-type: post
 title: Thought of the flight
-category: tech
-tags: [ 'Mesa', 'Floating point', 'GSoC', 'Docker' ]
+tags: [ 'Mesa', 'GSoC' ]
 ---
 Hello
 
@@ -22,4 +21,4 @@ If it's work properly and people are interested, I could make a Docker for Mesa 
 
 Have a nice day,
 
-Elie "[Hopetech](https://github.com/Hopetech)" Tournier
+Elie "[hopetech](https://github.com/Hopetech)" Tournier
